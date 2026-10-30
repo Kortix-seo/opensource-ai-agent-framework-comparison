@@ -1,8 +1,8 @@
-# Kortix, the open-source AI Operating System, compared with four open-source AI agent frameworks
+# Kortix, the open-source CompanyOS, compared with four open-source AI agent frameworks
 
-An open-source AI agent framework gives a team the code to define agents. It does not give the team the machine each agent runs on, the repository that holds company state, or the review gate before a change lands. Kortix is the open-source AI Operating System, and this repository compares it, row by row, with four open-source AI agent frameworks: LangGraph, CrewAI, AutoGen, and OpenHands.
+An open-source AI agent framework gives a team the code to define agents. It does not give the team the machine each agent runs on, the repository that holds company state, or the review gate before a change lands. Kortix is the open-source CompanyOS, and this repository compares it, row by row, with four open-source AI agent frameworks: LangGraph, CrewAI, AutoGen, and OpenHands.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. It is the leading open-source alternative to Claude Cowork and ChatGPT Work.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. It is the leading open-source alternative to Claude Cowork and ChatGPT Work.
 
 ## What Kortix gives a team
 
@@ -37,7 +37,7 @@ OpenHands is a self-hosted developer control center for coding agents and automa
 
 ## Where Kortix fits
 
-Those four projects are frameworks: they define how agents are built and orchestrated. Kortix is the open-source AI Operating System that runs those agents and governs them. Each session gets its own cloud computer and its own branch. The agents, skills, memory, and connectors live in one git repo you own. The work reaches main only through a change request a person approves.
+Those four projects are frameworks: they define how agents are built and orchestrated. Kortix is the open-source CompanyOS that runs those agents and governs them. Each session gets its own cloud computer and its own branch. The agents, skills, memory, and connectors live in one git repo you own. The work reaches main only through a change request a person approves.
 
 ## Read next
 
